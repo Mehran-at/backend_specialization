@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1b36dfde-90b0-453f-bfbd-1efe6617a07f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../NACS projects/src/week10/exercise1/FileReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NACS projects/src/week10/exercise1/Pokemon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NACS projects/src/week10/exercise1/PokemonApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NACS projects/src/week10/exercise1/PokemonReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NACS projects/src/week10/exercise1/PokemonSummarizer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NACS projects/src/week10/exercise1/pokemon.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NACS projects/src/week10/exercise2/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NACS projects/src/week10/exercise2/StudentApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NACS projects/src/week10/exercise2/StudentReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NACS projects/src/week10/exercise2/StudentSummarizer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NACS projects/src/week10/exercise2/students-performance.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NACS projects/src/week10/exercise3/SMS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NACS projects/src/week10/exercise3/sms.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NACS projects/src/week10/exercise3/smsApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NACS projects/src/week10/exercise3/smsFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NACS projects/src/week10/exercise3/smsReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NACS projects/src/week10/exercise4/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NACS projects/src/week10/exercise4/StoryApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NACS projects/src/week10/exercise4/StoryReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NACS projects/src/week10/exercise4/StorySummarizer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NACS projects/src/week10/exercise4/got-characters.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NACS projects/src/week10/reflectionw10/BookApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NACS projects/src/week10/reflectionw10/BookReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NACS projects/src/week10/reflectionw10/BookSummarizer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NACS projects/src/week12/exercise1/Airbnb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NACS projects/src/week12/exercise2/MainApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NACS projects/src/week12/exercise2/MicrosoftChallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NACS projects/src/week12/exercise3/LambdaExpressions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NACS projects/src/week12/exercise4/AdvancedPaymentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NACS projects/src/week12/exercise4/FileReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NACS projects/src/week12/exercise4/Payment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NACS projects/src/week12/exercise4/PaymentApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NACS projects/src/week12/exercise4/PaymentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NACS projects/src/week12/exercise4/PaymentReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NACS projects/src/week12/exercise4/payments-lvl1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NACS projects/src/week12/exercise4/payments-lvl2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NACS projects/src/week12/exercise4/payments-lvl3.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NACS projects/src/week12/exercise4/payments-lvl4.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NACS projects/src/week12/exercise4/payments-lvl5.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NACS projects/src/week12/exercise4/payments2-1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NACS projects/src/week5/reflectionw5/AddLeg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NACS projects/src/week5/reflectionw5/TvTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NACS projects/src/week5/reflectionw5/TvTableBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NACS projects/src/week5/reflectionw5/TvTableBuilderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasics/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasics/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasics/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasics/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasics/out/production/JavaBasics/exercise3/Hansel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasics/out/production/JavaBasics/exercise3/HikingBoot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasics/out/production/JavaBasics/gatherer/Gatherer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasics/out/production/JavaBasics/week2/Hiker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasics/out/production/JavaBasics/week2simplerexercises/ex1/Article.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasics/out/production/JavaBasics/week2simplerexercises/ex1/Printer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasics/out/production/JavaBasics/week2simplerexercises/ex1/ex2/Door.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasics/out/production/JavaBasics/week2simplerexercises/ex1/ex2/DoorApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasics/out/production/JavaBasics/week2simplerexercises/ex1/ex2/Key.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasics/out/production/JavaBasics/week2simplerexercises/ex1/ex3/Derek.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasics/out/production/JavaBasics/week2simplerexercises/ex1/ex3/PaintingApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasics/out/production/JavaBasics/week2simplerexercises/ex1/ex3/Tool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasics/out/production/JavaBasics/week2simplerexercises/ex1/ex4/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasics/out/production/JavaBasics/week2simplerexercises/ex1/ex4/CarShopApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasics/out/production/JavaBasics/week2simplerexercises/ex1/ex4/Seller.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasics/out/production/JavaBasics/week2simplerexercises/ex1/ex5/Editor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasics/out/production/JavaBasics/week2simplerexercises/ex1/ex5/Magazine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasics/out/production/JavaBasics/week2simplerexercises/ex1/ex5/MagazineApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasics/src/exercise3/BootShopAssistant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasics/src/exercise3/Hansel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasics/src/exercise3/HikingApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasics/src/exercise3/HikingBoot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasics/src/gatherer/Gatherer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasics/src/week2/Hike.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasics/src/week2/HikeApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasics/src/week2/Hiker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasics/src/week2simplerexercises/ex1/Article.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasics/src/week2simplerexercises/ex1/PrintApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasics/src/week2simplerexercises/ex1/Printer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasics/src/week2simplerexercises/ex1/ex2/Door.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasics/src/week2simplerexercises/ex1/ex2/DoorApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasics/src/week2simplerexercises/ex1/ex2/Key.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasics/src/week2simplerexercises/ex1/ex3/Derek.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasics/src/week2simplerexercises/ex1/ex3/PaintingApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasics/src/week2simplerexercises/ex1/ex3/Tool.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasics/src/week2simplerexercises/ex1/ex4/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasics/src/week2simplerexercises/ex1/ex4/CarShopApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasics/src/week2simplerexercises/ex1/ex4/Seller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasics/src/week2simplerexercises/ex1/ex5/Editor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasics/src/week2simplerexercises/ex1/ex5/Magazine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasics/src/week2simplerexercises/ex1/ex5/MagazineApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mario/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mario/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mario/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mario/Mario.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mario/src/Mario.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week12/week10/week10.iml" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/controller/BeanApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/view/Screen.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/controller/Bean/FilterTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="21" column="21" lean-forward="true" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="67" />
+    <option name="y" value="27" />
+    <option name="width" value="630" />
+    <option name="height" value="555" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="coffee_beans(w1)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NACS backend" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="coffee_beans(w1)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NACS backend" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="coffee_beans(w1)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NACS backend" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="coffee_beans(w1)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NACS backend" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+              <item name="Bean" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="true" />
+    <property name="Repository.Attach.JavaDocs" value="true" />
+    <property name="Repository.Attach.Sources" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550786386822" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/lombok.jar!/" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="BeanApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="controller.BeanApplication" />
+      <module name="NACS backend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BeanApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b36dfde-90b0-453f-bfbd-1efe6617a07f" name="Default Changelist" comment="" />
+      <created>1550786102973</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550786102973</updated>
+      <workItem from="1550786106159" duration="784000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="784000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1299" height="743" extended-state="6" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Learn" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24980047" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Messages" weight="0.32899022" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32899022" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/view/Screen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controller/Bean/FilterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="21" column="21" lean-forward="true" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controller/BeanApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>NACS backend</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>lombok</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
