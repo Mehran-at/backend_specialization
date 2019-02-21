@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="83de140d-7745-4662-93be-e1344624178e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../Git" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../reflectionw6/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../reflectionw6/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../reflectionw6/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../reflectionw6/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../reflectionw6/out/production/reflectionw6/AutomaticCar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../reflectionw6/out/production/reflectionw6/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../reflectionw6/out/production/reflectionw6/CarApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../reflectionw6/out/production/reflectionw6/Cars.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../reflectionw6/out/production/reflectionw6/Hansel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../reflectionw6/out/production/reflectionw6/ManualCar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../reflectionw6/reflectionw6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../reflectionw6/src/AutomaticCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../reflectionw6/src/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../reflectionw6/src/CarApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../reflectionw6/src/Cars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../reflectionw6/src/Hansel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../reflectionw6/src/ManualCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../reflectionweek7/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../reflectionweek7/src/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../reflectionweek7/src/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../reflectionweek7/src/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../reflectionweek7/src/FileReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../reflectionweek7/src/MainApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../reflectionweek7/src/Salary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../robomime/src/FileReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../robomime/src/MainApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../robomime/src/Sensor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../robomime/src/SpecialMoves.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../robomime/src/robomime.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled/week4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week4/.attach_pid15033" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week4/.attach_pid18790" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week4/.attach_pid19005" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week4/.attach_pid19336" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week4/.attach_pid19836" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week4/.attach_pid19928" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week4/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week4/.idea/libraries/junit_jupiter_api_5_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week4/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week4/out/production/week4/evaluationw4/RobodogApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week4/out/production/week4/evaluationw4/robodog.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week4/out/production/week4/exercise1/BasicShoppingApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week4/out/production/week4/exercise2/BasicBackpackApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week4/out/production/week4/exercise3/BasicIndexApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week4/out/production/week4/exercise4/BasicGiftApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week4/out/production/week4/exercise5/AdvancedShoppingApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week4/out/production/week4/exercise5/Grocery.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week4/out/production/week4/exercise6/AdvancedBackpackApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week4/out/production/week4/exercise6/Item.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week4/out/production/week4/exercise7/AdvancedIndexApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week4/out/production/week4/exercise7/Topic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week4/out/production/week4/exercise8/AdvancedGiftApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week4/out/production/week4/exercise8/Box.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week4/out/production/week4/exercise9/FileReader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week4/out/production/week4/exercise9/FileReaderTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week4/out/production/week4/exercise9/LoremIpsumApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week4/out/production/week4/exercise9/lorem-ipsum.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week4/src/evaluationw4/RobodogApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week4/src/evaluationw4/robodog.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week4/src/exercise1/BasicShoppingApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week4/src/exercise2/BasicBackpackApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week4/src/exercise3/BasicIndexApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week4/src/exercise4/BasicGiftApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week4/src/exercise5/AdvancedShoppingApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week4/src/exercise5/Grocery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week4/src/exercise6/AdvancedBackpackApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week4/src/exercise6/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week4/src/exercise7/AdvancedIndexApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week4/src/exercise7/Topic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week4/src/exercise8/AdvancedGiftApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week4/src/exercise8/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week4/src/exercise9/FileReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week4/src/exercise9/FileReaderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week4/src/exercise9/LoremIpsumApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week4/src/exercise9/lorem-ipsum.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week4/week4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/.attach_pid4244" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/.attach_pid4292" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/.attach_pid4354" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/.attach_pid4554" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/.attach_pid4782" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/.attach_pid4829" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/.attach_pid4906" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/.attach_pid6223" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/.attach_pid6585" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/.idea/libraries/junit_jupiter_api_5_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/lib/apiguardian-api-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/lib/junit-jupiter-api-5.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/lib/junit-platform-commons-1.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/lib/opentest4j-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/out/production/week5/META-INF/week5.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/out/production/week5/exercise1/Circle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/out/production/week5/exercise1/CircleApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/out/production/week5/exercise1/Shape.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/out/production/week5/exercise2/BasicShapesApplicaton.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/out/production/week5/exercise2/Square.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/out/production/week5/exercise2/Triangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/out/production/week5/exercise4/Batman.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/out/production/week5/exercise4/Spiderman.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/out/production/week5/exercise4/Superhero.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/out/production/week5/exercise4/SuperheroApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/out/production/week5/exercise4/SuperheroCaller.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/out/production/week5/exercise4/Superman.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/out/production/week5/exercise5/AdvancedSuperheroApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/out/production/week5/exercise5/Joker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/out/production/week5/exercise5/Villain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/out/production/week5/exercise6/AddBack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/out/production/week5/exercise6/AddBottom.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/out/production/week5/exercise6/AddDoor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/out/production/week5/exercise6/AddShelf.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/out/production/week5/exercise6/AddSide.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/out/production/week5/exercise6/AddTop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/out/production/week5/exercise6/Furniture.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/out/production/week5/exercise6/IkeaApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/out/production/week5/exercise6/Step.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/out/production/week5/exercise6/Wardrobe.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/out/production/week5/exercise6/WardrobeBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/out/production/week5/exercise7/Computer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/out/production/week5/exercise7/Human.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/out/production/week5/exercise7/Judge.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/out/production/week5/exercise7/Move.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/out/production/week5/exercise7/Paper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/out/production/week5/exercise7/Player.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/out/production/week5/exercise7/Rock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/out/production/week5/exercise7/Scissors.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/out/production/week5/exersice3/BasicColorApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/out/production/week5/exersice3/Colored.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/out/production/week5/exersice3/Rectangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/out/production/week5/reflectionw5/AddLeg.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/out/production/week5/reflectionw5/TvTable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/out/production/week5/reflectionw5/TvTableBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/out/production/week5/reflectionw5/TvTableBuilderTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/src/exercise1/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/src/exercise1/CircleApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/src/exercise1/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/src/exercise2/BasicShapesApplicaton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/src/exercise2/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/src/exercise2/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/src/exercise4/Batman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/src/exercise4/Spiderman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/src/exercise4/Superhero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/src/exercise4/SuperheroApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/src/exercise4/SuperheroCaller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/src/exercise4/Superman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/src/exercise5/AdvancedSuperheroApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/src/exercise5/Joker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/src/exercise5/Villain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/src/exercise6/AddBack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/src/exercise6/AddBottom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/src/exercise6/AddDoor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/src/exercise6/AddShelf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/src/exercise6/AddSide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/src/exercise6/AddTop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/src/exercise6/Furniture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/src/exercise6/IkeaApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/src/exercise6/Step.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/src/exercise6/Wardrobe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/src/exercise6/WardrobeBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/src/exercise7/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/src/exercise7/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/src/exercise7/Judge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/src/exercise7/Move.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/src/exercise7/Moves.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/src/exercise7/Paper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/src/exercise7/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/src/exercise7/Rock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/src/exercise7/RockScissorsPaperApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/src/exercise7/Scissors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/src/exersice3/BasicColorApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/src/exersice3/Colored.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/src/exersice3/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/src/reflectionw5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week5/week5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/.attach_pid3746" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/.attach_pid3822" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/.attach_pid3972" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/.attach_pid4063" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/.attach_pid5884" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/.attach_pid7330" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/.attach_pid8060" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/.attach_pid8812" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/.attach_pid8867" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/.idea/libraries/junit_jupiter_api_5_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/lib/apiguardian-api-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/lib/junit-jupiter-api-5.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/lib/junit-platform-commons-1.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/lib/opentest4j-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/out/production/week6/META-INF/week6.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/out/production/week6/exercise1/BigHotAirBalloon.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/out/production/week6/exercise1/HotAirBalloon.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/out/production/week6/exercise1/HotAirBalloonApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/out/production/week6/exercise1/SmallHotAirBalloon.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/out/production/week6/exercise2/ConeIceCream.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/out/production/week6/exercise2/CupIceCream.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/out/production/week6/exercise2/CupIceCreamTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/out/production/week6/exercise2/IceCream.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/out/production/week6/exercise2/IceCreamApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/out/production/week6/exercise3/AutoDrip.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/out/production/week6/exercise3/AutomaticCoffeeMachine.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/out/production/week6/exercise3/Coffee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/out/production/week6/exercise3/CoffeeMaker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/out/production/week6/exercise3/CoffeeMakerApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/out/production/week6/exercise3/CoffeeMakerTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/out/production/week6/exercise3/CoffeeMakers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/out/production/week6/exercise3/FrenchPress.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/out/production/week6/exercise4/Cent1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/out/production/week6/exercise4/Cent10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/out/production/week6/exercise4/Cent2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/out/production/week6/exercise4/Cent20.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/out/production/week6/exercise4/Cent5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/out/production/week6/exercise4/Cent50.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/out/production/week6/exercise4/GreedyAlgorithm.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/out/production/week6/exercise4/GreedyAlgorithmTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/out/production/week6/exercise4/GreedyApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/out/production/week6/exercise4/Money.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/out/production/week6/exercise5/AmericanExpress.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/out/production/week6/exercise5/Credit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/out/production/week6/exercise5/CreditApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/out/production/week6/exercise5/CreditCard.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/out/production/week6/exercise5/CreditTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/out/production/week6/exercise5/LuhnsAlgorithm.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/out/production/week6/exercise5/MasterCard.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/out/production/week6/exercise5/Visa.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/out/production/week6/exercise7/Computer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/out/production/week6/exercise7/Game.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/out/production/week6/exercise7/GameApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/out/production/week6/exercise7/Human.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/out/production/week6/exercise7/Judge.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/out/production/week6/exercise7/Lizard.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/out/production/week6/exercise7/Move.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/out/production/week6/exercise7/Moves.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/out/production/week6/exercise7/Paper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/out/production/week6/exercise7/Player.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/out/production/week6/exercise7/Players.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/out/production/week6/exercise7/Rock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/out/production/week6/exercise7/Scissors.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/out/production/week6/exercise7/Spock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/src/exercise1/BigHotAirBalloon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/src/exercise1/HotAirBalloon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/src/exercise1/HotAirBalloonApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/src/exercise1/SmallHotAirBalloon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/src/exercise2/ConeIceCream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/src/exercise2/CupIceCream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/src/exercise2/CupIceCreamTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/src/exercise2/IceCream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/src/exercise2/IceCreamApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/src/exercise3/AutoDrip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/src/exercise3/AutomaticCoffeeMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/src/exercise3/Coffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/src/exercise3/CoffeeMaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/src/exercise3/CoffeeMakerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/src/exercise3/CoffeeMakerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/src/exercise3/CoffeeMakers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/src/exercise3/FrenchPress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/src/exercise4/Cent1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/src/exercise4/Cent10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/src/exercise4/Cent2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/src/exercise4/Cent20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/src/exercise4/Cent5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/src/exercise4/Cent50.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/src/exercise4/GreedyAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/src/exercise4/GreedyAlgorithmTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/src/exercise4/GreedyApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/src/exercise4/Money.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/src/exercise5/AmericanExpress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/src/exercise5/Credit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/src/exercise5/CreditApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/src/exercise5/CreditCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/src/exercise5/CreditTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/src/exercise5/LuhnsAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/src/exercise5/MasterCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/src/exercise5/Visa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/src/exercise7/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/src/exercise7/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/src/exercise7/GameApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/src/exercise7/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/src/exercise7/Judge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/src/exercise7/Lizard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/src/exercise7/Move.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/src/exercise7/Moves.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/src/exercise7/Paper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/src/exercise7/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/src/exercise7/Players.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/src/exercise7/Rock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/src/exercise7/Scissors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/src/exercise7/Spock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week6/week6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise1/MainApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise1/MoneyCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise1/MoneyCollector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise2/ListOfWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise2/NicknameApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise2/NicknameCreator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise3/NumberApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise3/Numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise4/NumberSplitter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise4/NumberSplitterApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise5/PalindromeApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise5/PalindromeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise8/Decryptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise8/Encryptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise8/MainApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FileReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GrammarCheckApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GrammarChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Read.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alice's-adventures-in-wonderland.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dorian-gray.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dr.jekyll-and-mr.hyde.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dracula.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frankenstein.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metamorphosis.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moby-dick.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sherlock-holmes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/the-republic.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week8/.idea/libraries/junit_jupiter_api_5_4_0_M1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week8/org/testng/annotations/annotations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week8/src/exercise1/ListManipulator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week8/src/exercise1/ListManipulatorApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week8/src/exercise2/NumberFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week8/src/exercise2/NumberFilterApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week8/src/exercise3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week8/src/exercise3/KeywordFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week8/src/exercise3/KeywordFinderApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week8/src/exercise4/PowerLevelScouter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week8/src/exercise4/PowerLevelScouterTest.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Dictionary.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/GrammarCheckApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/GrammarCheckApplication.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="67" />
+    <option name="y" value="25" />
+    <option name="width" value="650" />
+    <option name="height" value="743" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="exercise9" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercise9" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547112953026" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="83de140d-7745-4662-93be-e1344624178e" name="Default Changelist" comment="" />
+      <created>1547112853564</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547112853564</updated>
+      <workItem from="1547112855082" duration="114000" />
+      <workItem from="1547113000613" duration="772000" />
+      <workItem from="1547115332281" duration="1176000" />
+      <workItem from="1547207956374" duration="37000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2099000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1299" height="743" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26177174" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Learn" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Dictionary.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GrammarCheckApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>exercise9</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

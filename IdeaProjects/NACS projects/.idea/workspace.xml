@@ -1,0 +1,920 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ef86dfb9-8f12-42d3-88f3-73c4a00975a2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/week10/exercise1/FileReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week10/exercise1/Pokemon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week10/exercise1/PokemonApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week10/exercise1/PokemonReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week10/exercise1/PokemonSummarizer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week10/exercise1/pokemon.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week10/exercise2/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week10/exercise2/StudentApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week10/exercise2/StudentReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week10/exercise2/StudentSummarizer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week10/exercise2/students-performance.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week10/exercise3/SMS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week10/exercise3/sms.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week10/exercise3/smsApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week10/exercise3/smsFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week10/exercise3/smsReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week10/exercise4/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week10/exercise4/StoryApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week10/exercise4/StoryReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week10/exercise4/StorySummarizer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week10/exercise4/got-characters.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week10/reflectionw10/BookApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week10/reflectionw10/BookReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week10/reflectionw10/BookSummarizer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week12/exercise1/Airbnb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week12/exercise2/MainApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week12/exercise2/MicrosoftChallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week12/exercise3/LambdaExpressions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week12/exercise4/AdvancedPaymentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week12/exercise4/FileReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week12/exercise4/Payment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week12/exercise4/PaymentApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week12/exercise4/PaymentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week12/exercise4/PaymentReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week12/exercise4/payments-lvl1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week12/exercise4/payments-lvl2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week12/exercise4/payments-lvl3.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week12/exercise4/payments-lvl4.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week12/exercise4/payments-lvl5.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week12/exercise4/payments2-1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week5/reflectionw5/AddLeg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week5/reflectionw5/TvTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week5/reflectionw5/TvTableBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week5/reflectionw5/TvTableBuilderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewConcepts/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewConcepts/src/Enum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../evaluationw2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../evaluationw2/src/ex1/Letter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../evaluationw2/src/ex1/PostOfficeApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../evaluationw2/src/ex1/PostOfficeAssistant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../evaluationw2/src/ex2/Postman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week10/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week11/.idea/libraries/junit_jupiter_api_5_4_0_RC1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week11/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week12/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week7/src/exercise10/Anagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week7/src/exercise10/AnagramApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week7/src/exercise10/AnagramReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week7/src/exercise10/FileReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasics/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasics/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasics/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasics/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasics/out/production/JavaBasics/exercise3/Hansel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasics/out/production/JavaBasics/exercise3/HikingBoot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasics/out/production/JavaBasics/gatherer/Gatherer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasics/out/production/JavaBasics/week2/Hiker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasics/out/production/JavaBasics/week2simplerexercises/ex1/Article.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasics/out/production/JavaBasics/week2simplerexercises/ex1/Printer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasics/out/production/JavaBasics/week2simplerexercises/ex1/ex2/Door.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasics/out/production/JavaBasics/week2simplerexercises/ex1/ex2/DoorApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasics/out/production/JavaBasics/week2simplerexercises/ex1/ex2/Key.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasics/out/production/JavaBasics/week2simplerexercises/ex1/ex3/Derek.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasics/out/production/JavaBasics/week2simplerexercises/ex1/ex3/PaintingApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasics/out/production/JavaBasics/week2simplerexercises/ex1/ex3/Tool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasics/out/production/JavaBasics/week2simplerexercises/ex1/ex4/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasics/out/production/JavaBasics/week2simplerexercises/ex1/ex4/CarShopApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasics/out/production/JavaBasics/week2simplerexercises/ex1/ex4/Seller.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasics/out/production/JavaBasics/week2simplerexercises/ex1/ex5/Editor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasics/out/production/JavaBasics/week2simplerexercises/ex1/ex5/Magazine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasics/out/production/JavaBasics/week2simplerexercises/ex1/ex5/MagazineApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasics/src/exercise3/BootShopAssistant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasics/src/exercise3/Hansel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasics/src/exercise3/HikingApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasics/src/exercise3/HikingBoot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasics/src/gatherer/Gatherer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasics/src/week2/Hike.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasics/src/week2/HikeApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasics/src/week2/Hiker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasics/src/week2simplerexercises/ex1/Article.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasics/src/week2simplerexercises/ex1/PrintApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasics/src/week2simplerexercises/ex1/Printer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasics/src/week2simplerexercises/ex1/ex2/Door.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasics/src/week2simplerexercises/ex1/ex2/DoorApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasics/src/week2simplerexercises/ex1/ex2/Key.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasics/src/week2simplerexercises/ex1/ex3/Derek.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasics/src/week2simplerexercises/ex1/ex3/PaintingApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasics/src/week2simplerexercises/ex1/ex3/Tool.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasics/src/week2simplerexercises/ex1/ex4/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasics/src/week2simplerexercises/ex1/ex4/CarShopApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasics/src/week2simplerexercises/ex1/ex4/Seller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasics/src/week2simplerexercises/ex1/ex5/Editor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasics/src/week2simplerexercises/ex1/ex5/Magazine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasics/src/week2simplerexercises/ex1/ex5/MagazineApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week12/week10/week10.iml" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/week13/PongGame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/week6/exercise4/Money.java" />
+        <option value="$PROJECT_DIR$/src/week6/exercise5/AmericanExpress.java" />
+        <option value="$PROJECT_DIR$/src/week6/exercise5/Credit.java" />
+        <option value="$PROJECT_DIR$/src/week6/exercise5/CreditApplication.java" />
+        <option value="$PROJECT_DIR$/src/week6/exercise5/CreditCard.java" />
+        <option value="$PROJECT_DIR$/src/week6/exercise5/CreditTest.java" />
+        <option value="$PROJECT_DIR$/src/week6/exercise5/LuhnsAlgorithm.java" />
+        <option value="$PROJECT_DIR$/src/week6/exercise5/MasterCard.java" />
+        <option value="$PROJECT_DIR$/src/week6/exercise5/Visa.java" />
+        <option value="$PROJECT_DIR$/src/week7/exercise1/MoneyCalculator.java" />
+        <option value="$PROJECT_DIR$/src/week7/exercise1/MoneyCollector.java" />
+        <option value="$PROJECT_DIR$/src/week7/exercise2/ListOfWords.java" />
+        <option value="$PROJECT_DIR$/src/week7/exercise2/NicknameCreator.java" />
+        <option value="$PROJECT_DIR$/src/week7/exercise3/NumberApplication.java" />
+        <option value="$PROJECT_DIR$/src/week7/exercise4/NumberSplitter.java" />
+        <option value="$PROJECT_DIR$/src/week7/exercise4/NumberSplitterApplication.java" />
+        <option value="$PROJECT_DIR$/src/week7/exercise5/PalindromeController.java" />
+        <option value="$PROJECT_DIR$/../week7/src/reflectionw7/FileReader.java" />
+        <option value="$PROJECT_DIR$/../week7/src/reflectionw7/EmployeeReader.java" />
+        <option value="$PROJECT_DIR$/src/week8/exercise2/NumberFilterApplication.java" />
+        <option value="$PROJECT_DIR$/src/week8/exercise3/KeywordFinderApplication.java" />
+        <option value="$PROJECT_DIR$/src/week8/robomime/Sensor.java" />
+        <option value="$PROJECT_DIR$/src/week8/robomime/SpecialMoves.java" />
+        <option value="$PROJECT_DIR$/src/week9/exercise1/StreamsApplication.java" />
+        <option value="$PROJECT_DIR$/src/week9/exercise1/NumberGenerator.java" />
+        <option value="$PROJECT_DIR$/src/week9/exercise2/Name.java" />
+        <option value="$PROJECT_DIR$/src/week9/exercise2/StreamsTest.java" />
+        <option value="$PROJECT_DIR$/src/week9/exercise3/Caesar.java" />
+        <option value="$PROJECT_DIR$/src/week9/exercise3/MainApplication.java" />
+        <option value="$PROJECT_DIR$/src/week9/exercise4/HappinessApplication.java" />
+        <option value="$PROJECT_DIR$/src/week9/exercise5/FilmApplication.java" />
+        <option value="$PROJECT_DIR$/src/week9/exercise5/FilmReader.java" />
+        <option value="$PROJECT_DIR$/src/week9/reflectionw9/StudentReader.java" />
+        <option value="$PROJECT_DIR$/src/week9/reflectionw9/StudentApplication.java" />
+        <option value="$PROJECT_DIR$/src/week9/reflectionw9/StudentSummarizer.java" />
+        <option value="$PROJECT_DIR$/src/week11/exercise1/TimeTest.java" />
+        <option value="$PROJECT_DIR$/../Robocode (translation)/src/Week2/AddingTwoNumbers.java" />
+        <option value="$PROJECT_DIR$/../Robocode (translation)/src/Week2/Brackets.java" />
+        <option value="$PROJECT_DIR$/../Robocode (translation)/src/Week2/CalculateSquare.java" />
+        <option value="$PROJECT_DIR$/../Robocode (translation)/src/Week2/FancyPub.java" />
+        <option value="$PROJECT_DIR$/../Robocode (translation)/src/Week2/PayingthePrice.java" />
+        <option value="$PROJECT_DIR$/../Robocode (translation)/src/Week2/PickBasketballEquipment.java" />
+        <option value="$PROJECT_DIR$/../Robocode (translation)/src/Week2/PleaseNoAdvertisement.java" />
+        <option value="$PROJECT_DIR$/../Robocode (translation)/src/Week2/WatchingSeries.java" />
+        <option value="$PROJECT_DIR$/../Robocode (translation)/src/Week3/OldPhone.java" />
+        <option value="$PROJECT_DIR$/../Robocode (translation)/src/Week2/OldPhone.java" />
+        <option value="$PROJECT_DIR$/src/week1/OldPhone.java" />
+        <option value="$PROJECT_DIR$/../Robocode (translation)/src/DidSomethingClick.java" />
+        <option value="$PROJECT_DIR$/../Robocode (translation)/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/week1/DidSomethingClick.java" />
+        <option value="$PROJECT_DIR$/src/week13/PongGame.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="67" />
+    <option name="y" value="88" />
+    <option name="width" value="630" />
+    <option name="height" value="555" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="NACS projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NACS projects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NACS projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NACS projects" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NACS projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NACS projects" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="week13" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.JavaDocs" value="true" />
+    <property name="Repository.Attach.Sources" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549962279549" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="true" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.25084746" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="week3.exercise1" />
+      <recent name="week3.exercise1.exercise3" />
+      <recent name="week3.exercise1.exercise2" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="week1" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/week8/robomime" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.FilmApplication">
+    <configuration name="FilmApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week9.exercise5.FilmApplication" />
+      <module name="NACS projects" />
+      <option name="VM_PARAMETERS" value="--module-path /path/to/javafx-sdk-11.0.1/lib --add-modules=javafx.controls,javafx.fxml" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Downloads/JavaFX/openjfx-11.0.2_linux-x64_bin-sdk/javafx-sdk-11.0.2/lib" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week9.exercise5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HotAirBalloonApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week6.exercise1.HotAirBalloonApplication" />
+      <module name="NACS projects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week6.exercise1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListManipulatorApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week8.exercise1.ListManipulatorApplication" />
+      <module name="NACS projects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week8.exercise1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NicknameApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week7.exercise2.NicknameApplication" />
+      <module name="NACS projects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week7.exercise2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week7.exercise3.NumberApplication" />
+      <module name="NACS projects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week7.exercise3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.HotAirBalloonApplication" />
+      <item itemvalue="Application.NicknameApplication" />
+      <item itemvalue="Application.NumberApplication" />
+      <item itemvalue="Application.ListManipulatorApplication" />
+      <item itemvalue="Application.FilmApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FilmApplication" />
+        <item itemvalue="Application.ListManipulatorApplication" />
+        <item itemvalue="Application.NumberApplication" />
+        <item itemvalue="Application.NicknameApplication" />
+        <item itemvalue="Application.HotAirBalloonApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef86dfb9-8f12-42d3-88f3-73c4a00975a2" name="Default Changelist" comment="" />
+      <created>1542019527720</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542019527720</updated>
+      <workItem from="1542019534668" duration="1157000" />
+      <workItem from="1542025313792" duration="11799000" />
+      <workItem from="1542051277994" duration="4114000" />
+      <workItem from="1542105166678" duration="14118000" />
+      <workItem from="1542182184822" duration="22563000" />
+      <workItem from="1542272500985" duration="1904000" />
+      <workItem from="1542284140597" duration="5448000" />
+      <workItem from="1542354713215" duration="128000" />
+      <workItem from="1542630728705" duration="6946000" />
+      <workItem from="1542640996443" duration="4670000" />
+      <workItem from="1542708492789" duration="8053000" />
+      <workItem from="1542724613081" duration="2805000" />
+      <workItem from="1542796010359" duration="5125000" />
+      <workItem from="1542889830058" duration="6661000" />
+      <workItem from="1542898806343" duration="1008000" />
+      <workItem from="1542960174152" duration="4607000" />
+      <workItem from="1543228753500" duration="78000" />
+      <workItem from="1549891678669" duration="863000" />
+      <workItem from="1549892793041" duration="4996000" />
+      <workItem from="1549899470952" duration="894000" />
+      <workItem from="1549961611014" duration="665000" />
+      <workItem from="1550779667593" duration="879000" />
+      <workItem from="1550784077270" duration="240000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="NumberCorrectorTest - 2018.11.20 at 12h 59m 55s.xml">
+      <configuration name="NumberCorrectorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SupermarketApplicationTest_main - 2018.11.20 at 13h 00m 35s.xml">
+      <configuration name="SupermarketApplicationTest.main" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NumberCorrectorTest - 2018.11.20 at 15h 29m 06s.xml">
+      <configuration name="NumberCorrectorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ScreenTest_testBusinessCustomer - 2018.11.20 at 15h 43m 48s.xml">
+      <configuration name="ScreenTest.testBusinessCustomer" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ScreenTest_testBusinessCustomer - 2018.11.20 at 15h 44m 30s.xml">
+      <configuration name="ScreenTest.testBusinessCustomer" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ScreenTest_testBusinessCustomer - 2018.11.20 at 15h 45m 04s.xml">
+      <configuration name="ScreenTest.testBusinessCustomer" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ScreenTest_testBusinessCustomer - 2018.11.20 at 15h 45m 24s.xml">
+      <configuration name="ScreenTest.testBusinessCustomer" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ScreenTest_testEconomyCustomer - 2018.11.20 at 15h 47m 18s.xml">
+      <configuration name="ScreenTest.testEconomyCustomer" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ScreenTest - 2019.02.11 at 15h 06m 52s.xml">
+      <configuration name="ScreenTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CupIceCreamTest - 2019.02.11 at 15h 26m 18s.xml">
+      <configuration name="CupIceCreamTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="109721000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1299" height="743" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49636805" visible="true" weight="0.18754987" />
+      <window_info id="Structure" order="1" sideWeight="0.50363195" side_tool="true" weight="0.121308856" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Learn" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32736155" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3257329" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3284553" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32899022" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3257329" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" weight="0.042298485" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Maven" order="9" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49636805" visible="true" weight="0.25778133" />
+      <window_info id="Structure" order="1" sideWeight="0.50363195" side_tool="true" weight="0.121308856" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Learn" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32736155" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3257329" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3284553" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32899022" />
+      <window_info anchor="bottom" id="Messages" order="11" visible="true" weight="0.3257329" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" weight="0.042298485" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Maven" order="9" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/week7/exercise3/NumberApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week7/exercise2/NicknameApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week7/exercise4/NumberSplitter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week7/exercise5/PalindromeApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week6/exercise1/HotAirBalloonApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week7/exercise10/1.jpg" />
+    <entry file="file://$PROJECT_DIR$/src/week7/exercise10/Experiment.java" />
+    <entry file="file://$PROJECT_DIR$/src/week8/exercise1/ListManipulatorApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week8/exercise2/NumberFilterApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="12" column="65" selection-start-line="12" selection-start-column="65" selection-end-line="12" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week8/exercise3/KeywordFinder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week8/exercise3/KeywordFinderApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week8/exercise4/PowerLevelScouter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week8/exercise4/PowerLevelScouterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week8/robomime/MainApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week8/robomime/Sensor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week8/robomime/SpecialMoves.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week9/exercise1/StreamsApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week9/exercise2/FileReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week9/exercise2/Name.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week9/exercise2/NameApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week9/exercise2/StreamsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-148">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week9/exercise3/Caesar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week9/exercise3/CaesarStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-58">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week9/exercise3/MainApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week9/exercise4/HappinessRecord.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week9/exercise4/HappinessRecordReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week9/exercise4/HappinessApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week9/exercise5/Film.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-178">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week9/exercise5/FilmReader.java" />
+    <entry file="file://$PROJECT_DIR$/src/week9/exercise5/FilmApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week9/exercise1/NumberGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="37" column="9" lean-forward="true" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week9/reflectionw9/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-132">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week9/reflectionw9/StudentApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week9/reflectionw9/StudentReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week11/exercise1/TimeTest.java" />
+    <entry file="file://$PROJECT_DIR$/../Robocode (translation)/src/Week2/Nice.java" />
+    <entry file="file://$PROJECT_DIR$/src/week9/reflectionw9/StudentSummarizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="50" column="5" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week1/AddingTwoNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week1/Brackets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week1/CalculateSquare.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week1/FancyPub.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week1/PayingthePrice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week1/PickBasketballEquipment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Robocode (translation)/src/Main.java" />
+    <entry file="file://$PROJECT_DIR$/../Robocode (translation)/src/DidSomethingClick.java" />
+    <entry file="file://$PROJECT_DIR$/src/week1/PleaseNoAdvertisement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week1/OldPhone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week1/DidSomethingClick.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week1/TastyBits.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week1/WatchingSeries.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week13/PongGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>NACS projects</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.25084746" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>junit-jupiter-api-5.3.11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.25084746" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
